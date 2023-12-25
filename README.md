@@ -1,3 +1,6 @@
+#OmDb
+a single page website where you can rate movies in real tim and add to your watch_list
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
